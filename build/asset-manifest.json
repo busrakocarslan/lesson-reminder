@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32fb19c5.css",
+    "main.js": "/static/js/main.3ec86fba.js",
+    "static/media/colored-pencils-2063_1280.jpg": "/static/media/colored-pencils-2063_1280.01c1837779ed629cbfbc.jpg",
+    "index.html": "/index.html",
+    "main.32fb19c5.css.map": "/static/css/main.32fb19c5.css.map",
+    "main.3ec86fba.js.map": "/static/js/main.3ec86fba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32fb19c5.css",
+    "static/js/main.3ec86fba.js"
+  ]
+}
