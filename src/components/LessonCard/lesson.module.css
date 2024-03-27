@@ -1,0 +1,30 @@
+.deneme {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  /* border: 2px solid red; */
+  background-color:cadetblue;
+  height: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 350px);
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: space-around;
+  padding: 2rem;
+  height: 60vh;
+}
+.img-info {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  & img {
+    width: 100px;
+  }
+}
+.h1{
+    font-family: "Roboto";
+    text-align: center;
+    background-color: pink;
+}

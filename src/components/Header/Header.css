@@ -1,0 +1,18 @@
+.navbar{
+    background-image: url(../../../public/img/colored-pencils-2063_1280.jpg); 
+    background-repeat: no-repeat;   
+    background-size: cover;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap:3rem;
+    background-color:rgba(66, 96, 96, 0.563);
+    padding: 1rem;
+    color: darkcyan;
+    & img{
+        width: 150px;
+    }
+    & h1{
+        letter-spacing: .3rem;
+    }
+}
